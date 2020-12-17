@@ -8,7 +8,7 @@
 <body>
 	<h1>WAR Web Service</h1>
 	<ul>
-	    <p>The HTML head element contains meta data.</p>
+	    <p>All The Best Chandra for New Job Searching on DevOps</p>
         <p>Meta data is data about the HTML document.</p>
 
 		<li><a href="http://localhost:8080/wwp-1.0.0/webapi/service">http://localhost:8080/wwp-1.0.0/webapi/service</a></li>
