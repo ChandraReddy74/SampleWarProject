@@ -35,9 +35,9 @@
   
   <distributionManagement>
     <repository>
-        <id>devops-deploy</id>
+        <id>devops-sample</id>
         <name>release softx</name>
-        <url>http://192.168.32.132:8081/repository/devops-release/</url>
+        <url>http://192.168.32.143:8081/repository/Sample_deploy/</url>
     </repository>
    </distributionManagement>
 
